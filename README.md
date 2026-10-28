@@ -39,3 +39,9 @@ If no file is found the notebook falls back to SYNTHETIC demo data - never repor
 | 9 | Interpretation | SHAP, auto-insights, §9 (+ your own words) |
 | 10 | Documentation | markdown + comments throughout |
 | 11 | Report | `REPORT_OUTLINE.md` |
+
+## Live demo
+🔗 https://employeeattritionn.streamlit.app/
+
+Upload any HR dataset (CSV or Excel), or tick "Use synthetic demo data" in the sidebar to try it.
+For a quick first run, untick "Tune CatBoost" and click Train model.
